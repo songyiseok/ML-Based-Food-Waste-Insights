@@ -15,7 +15,7 @@
 ## 📊 데이터 개요
 - 데이터 출처:[Kaggle]:https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024
 
-![데이터 개요](images\data_sum.png)
+![데이터 개요](images/data_sum.png)
 
 - 주요 컬럼:
   - `총 폐기량`, `1인당 폐기량`, `가정 폐기율`, `인구`
@@ -74,25 +74,25 @@
 | Linear Regression    | 0.65     | 2100.5  |
 | Decision Tree        | 0.73     | 1700.1  |
 
-![모델별 R2 Score 비교]:(C:\ML_Project\모델별_R2_Score비교.png)
+![모델별 R2 Score 비교](images/models_R2_Score.png)
 ---
 ### 📊 Feature와 Target 관계 시각화 그래프
-![Feature와 Target 관계 시각화 그래프]:(images\feature_target_plot.png)
+![Feature와 Target 관계 시각화 그래프](images/feature_target_plot.png)
 ---
 ### 베스트 모델
-![베스트 모델]:(images\best_model.png)
+![베스트 모델](images/best_model.png)
 ---
 ### 변수 분포
-![변수 분포]:(images\feature_distribution.png)
+![변수 분포](images/feature_distribution.png)
 ---
 ### 실제값 VS 예측값 비교
-![실제값 VS 예측값 비교]:(images\prediction_vs_actual.png)
+![실제값 VS 예측값 비교](images/prediction_vs_actual.png)
 ---
 
 ### 히트맵
-![히트맵]:(images\heatmap.png)
+![히트맵](images/heatmap.png)
 
 ---
 
 ### 📊 데이터 리포트
-[![프로파일링 썸네일](images/profiling_thumb.png)](https://songyiseok.github.io/ML_Project\global_food_wastage_profiling_report.html)
+[![프로파일링 썸네일](images/profiling_thumb.png)](https://songyiseok.github.io/ML_Project/global_food_wastage_profiling_report.html)
