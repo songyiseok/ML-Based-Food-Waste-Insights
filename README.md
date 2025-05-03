@@ -15,7 +15,7 @@
 ## 📊 데이터 개요
 - 데이터 출처:[Kaggle]:https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024
 
-![데이터 개요](ML_Project\데이터개요.PNG)
+![데이터 개요](images\data_sum.png)
 
 - 주요 컬럼:
   - `총 폐기량`, `1인당 폐기량`, `가정 폐기율`, `인구`
@@ -77,20 +77,20 @@
 ![모델별 R2 Score 비교]:(C:\ML_Project\모델별_R2_Score비교.png)
 ---
 ### 📊 Feature와 Target 관계 시각화 그래프
-![Feature와 Target 관계 시각화 그래프]:(ML_Project\Feature와 Target 관계 시각화 그래프.png)
+![Feature와 Target 관계 시각화 그래프]:(images\feature_target_plot.png)
 ---
 ### 베스트 모델
-![베스트 모델]:(ML_Project\베스트모델.PNG)
+![베스트 모델]:(images\best_model.png)
 ---
 ### 변수 분포
-![변수 분포]:(ML_Project\변수 분포.png)
+![변수 분포]:(images\feature_distribution.png)
 ---
 ### 실제값 VS 예측값 비교
-![실제값 VS 예측값 비교]:(ML_Project\실제_예측값_비교.png)
+![실제값 VS 예측값 비교]:(images\prediction_vs_actual.png)
 ---
 
 ### 히트맵
-![히트맵]:(ML_Project\히트맵.png)
+![히트맵]:(images\heatmap.png)
 
 ---
 
