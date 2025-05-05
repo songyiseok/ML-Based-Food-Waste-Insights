@@ -63,7 +63,7 @@
 ---
 
 ## 📺 프로젝트 시연 영상
-[![시연영상]()](https://youtu.be/GP2rJecGfAY)
+[![시연영상](images/youtubesum.png)](https://youtu.be/GP2rJecGfAY)
 
 ---
 ### 🧪 모델 성능 비교 결과
@@ -95,4 +95,4 @@
 ---
 
 ### 📊 데이터 리포트
-[![프로파일링 썸네일](images/profiling_thumb.png)](https://songyiseok.github.io/ML_Project/global_food_wastage_profiling_report.html)
+[![프로파일링 썸네일](images/report.png)](http://127.0.0.1:5500/global_food_wastage_profiling_report.html)
